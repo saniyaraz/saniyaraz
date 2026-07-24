@@ -22,7 +22,7 @@ I’m passionate about building **smart electronic systems**, programming **micr
 ## 🧠 Languages & Tools
 
 <p align="center">
- <img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,raspberrypi,linux,vscode,git,github,proteus,altium,verilog" />
+ <img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,raspberrypi,linux,vscode,git,github,tensorflow,proteus,altium,verilog" />
 </p>
 
 ---
