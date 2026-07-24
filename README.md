@@ -11,10 +11,11 @@ I’m passionate about building **smart electronic systems**, programming **micr
 
 - ⚙️ **Embedded Systems Development** – from low-level C to hardware debugging  
 - 💡 **Microcontroller Programming** – AVR, ARM, Arduino, ESP, STM32, and more  
-- 📡 **Electronics Design** – schematic & PCB design using Altium / Proteus / KiCad  
-- 🧰 **Python & C++ Projects** – automation tools, CLI apps, and simulations  
+- 📡 **Electronics Design** – schematic & PCB design using Altium / Proteus 
+- 🧰 **Python & C++ Projects** – automation tools, CLI apps, and simulations 
+- 🤖 **Machine Learning & AI** - data analysis, predictive models, neural networks
 - 🌐 **IoT & Sensors** – connecting devices to the internet, data logging, and control  
-- 🤖 **Robotics & Control Systems** – servo control, PID, motor drivers, etc.
+
 
 ---
 
@@ -28,9 +29,9 @@ I’m passionate about building **smart electronic systems**, programming **micr
 
 ## 🚀 Current Focus
 
-- 🪫 Low-power embedded design  
+- 🤖 Machine Learning & AI
 - 🔌 Communication protocols (UART, I2C, SPI, CAN)  
-- 📶 IoT systems (WiFi, BLE, LoRa)  
+- 📶 IoT systems  
 
  
 
